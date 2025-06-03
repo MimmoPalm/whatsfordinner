@@ -43,8 +43,8 @@ Edit
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/meal-suggestion-gpt.git
-cd meal-suggestion-gpt
+git clone https://github.com/MimmoPalm/whatsfordinner.git
+cd whatsfordinner
 2. Install dependencies
 bash
 Copy
